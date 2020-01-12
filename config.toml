@@ -1,0 +1,89 @@
+baseURL = "https://dylanlau.io"
+copyright = "Dylan Lau"
+paginate = 5
+title = "Hi"
+DefaultContentLanguage = "en"
+favicon = "favicon.ico"
+
+[params]
+keywords = "blog,developer,personal"
+avatarurl = "img/avatar.png"
+
+[params.author]
+name = "Dylan Lau"
+info = "Professional Bug Creator"
+location = "Tokyo, Japan"
+
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/drlau/"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin fa-2x"
+    weight = 2
+    url = "https://linkedin.com/in/drlau/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 3
+    url = "https://twitter.com/aidiruu/"
+
+
+[languages]
+[languages.en]
+languagename = "English"
+title = "Hi"
+copyright = "Dylan Lau"
+readMore = "Read more"
+readOtherPosts = "Read other posts"
+
+[languages.en.author]
+    name = "Dylan Lau"
+    info = "Professional Bug Creator"
+    location = "Tokyo, Japan"
+
+[languages.en.menu]
+    [[languages.en.menu.main]]
+    identifier = "tech"
+    name = "Tech Blog"
+    url = "/tech"
+
+    [[languages.en.menu.main]]
+    identifier = "life"
+    name = "Life Blog"
+    url = "/life"
+
+    [[languages.en.menu.main]]
+    identifier = "misc"
+    name = "Style tests"
+    url = "/post"
+
+[languages.jp]
+languagename = "日本語"
+title = "よう"
+keywords = "key"
+readMore = "次"
+readOtherPosts = "Read other posts"
+
+[languages.jp.author]
+    name = "ラウ　ディラン"
+    info = "ソフトウェアエンジニア"
+    location = "東京、日本"
+
+[languages.jp.menu]
+    [[languages.jp.menu.main]]
+    identifier = "tech"
+    name = "テック"
+    url = "/jp/tech"
+
+    [[languages.jp.menu.main]]
+    identifier = "life"
+    name = "人生"
+    url = "/jp/life"
+
+    [[languages.jp.menu.main]]
+    identifier = "misc"
+    name = "Style tests"
+    url = "/jp/post"

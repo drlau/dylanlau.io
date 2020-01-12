@@ -1,0 +1,30 @@
+<header class="header">
+  <a class="logo" href="{{ $.Site.BaseURL | relLangURL }}">
+    {{ $.Site.Title }}
+  </a>
+  <input type="checkbox" id="menu-toggle" />
+  <label class="menu-button float-right" for="menu-toggle"><i class="fas fa-bars"></i></label>
+  <ul class="navigation-list">
+    {{ range .Site.Menus.main }}
+      <li class="navigation-item"><a href="{{ .URL }}">{{ .Name }}</a></li>
+    {{ end }}
+    {{ if .Site.IsMultiLingual }}
+      {{ $node := . }}
+      {{ .Scratch.Set "separator" true }}
+      {{ range .Site.Home.AllTranslations }}
+        {{ if ne $.Site.Language .Language }}
+          {{ if $node.Scratch.Get "separator" }}
+            <li class="navigation-item menu-separator">
+              <span>|</span>
+            </li>
+            {{ $node.Scratch.Set "separator" false }}
+          {{ end }}
+          <li class="navigation-item">
+            <!-- TODO fix redirect for current page -->
+            <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+          </li>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  </ul>
+</header>
