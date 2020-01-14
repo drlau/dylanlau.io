@@ -28,10 +28,10 @@ body{
     background-color:#1a1a1a;
     color:#fff;
 
-    hyphens: auto;
+    /* hyphens: auto;
     -webkit-hyphens: auto;
     -ms-hyphens: auto;
-    -moz-hyphens: auto;
+    -moz-hyphens: auto; */
 
     text-rendering:optimizeLegibility;
     -webkit-font-smoothing:antialiased;
@@ -382,13 +382,13 @@ hr{
 .pagination{
     margin-top:50px
 }
-.pagination__title{
+.pagination-title{
     display:flex;
     text-align:center;
     position:relative;
     margin:100px 0 20px
 }
-.pagination__title-h{
+.pagination-title-h{
     text-align:center;
     margin:0 auto;
     padding:5px 10px;
@@ -399,7 +399,7 @@ hr{
     letter-spacing:.1em;
     z-index:1
 }
-.pagination__title hr{
+.pagination-title hr{
     position:absolute;
     left:0;
     right:0;
@@ -407,12 +407,12 @@ hr{
     margin-top:15px;
     z-index:0
 }
-.pagination__buttons{
+.pagination-buttons{
     display:flex;
     align-items:center;
     justify-content:center
 }
-.pagination__buttons a{
+.pagination-buttons a{
     text-decoration:none
 }
 .button{
@@ -499,6 +499,9 @@ hr{
 }
 .post-content{
     margin-top:30px
+}
+.post-content h1{
+    margin-top: 3rem;
 }
 .post-cover{
     border:1px solid #bc002d;

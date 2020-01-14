@@ -64,8 +64,8 @@ readOtherPosts = "Read other posts"
 languagename = "日本語"
 title = "よう"
 keywords = "key"
-readMore = "次"
-readOtherPosts = "Read other posts"
+readMore = "続きを読む"
+readOtherPosts = "もっと見る"
 
 [languages.jp.author]
     name = "ラウ　ディラン"

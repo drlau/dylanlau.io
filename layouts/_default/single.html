@@ -27,12 +27,12 @@
   </div>
   {{ if or .NextInSection .PrevInSection }}
   <div class="pagination">
-    <div class="pagination__title">
+    <div class="pagination-title">
       <span
-        class="pagination__title-h">{{ $.Site.Params.ReadOtherPosts }}</span>
+        class="pagination-title-h">{{ $.Site.Params.ReadOtherPosts }}</span>
       <hr />
     </div>
-    <div class="pagination__buttons">
+    <div class="pagination-buttons">
       {{ if .NextInSection }}
       <span class="button previous">
         <a href="{{ .NextInSection.Permalink }}">

@@ -7,6 +7,7 @@ tags: ["travel", "ANA", "SFC"]
 keywords: ["ANA", "SFC"]
 description: "The journey to getting the elusive ANA Super Flyers Card."
 showFullContent: false
+draft: true
 ---
 
 Points was something always on the back of my mind. Maybe one day I'll get elite status, I keep telling myself. It was something that I always wanted to do, but I never found the time or money to do it. In 2019, I did 2.5 round trips from Toronto to Japan, and didn't even get enough points for Aeroplan silver / Star Alliance Silver, which is only halfway to Gold, where the good benefits are.
