@@ -8,4 +8,4 @@ Welcome to my corner that I call home.
 
 I have 2 separate blogs, one for Software Engineering only related things and another about everything else.
 
-Actual about me coming soon&trade;.
+Actual about me and picture coming soon&trade;.
