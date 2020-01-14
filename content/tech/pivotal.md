@@ -5,6 +5,7 @@ author: "Dylan Lau"
 tags: ["Pivotal"]
 keywords: ["Pivotal", "Organization", "Anchor", "XP"]
 description: "An in depth explanation of Cloud Foundry organizational structure at Pivotal, the development methodology, and how everyone fits in."
+draft: true
 ---
 
 # Pivotal

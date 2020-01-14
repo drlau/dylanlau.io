@@ -2,19 +2,15 @@
 title: "ANA スーパーフライヤーズカード"
 date: 2020-01-11T21:21:01+09:00
 author: "Dylan Lau"
-cover: "img/ana.jpg"
 tags: ["travel", "ANA", "SFC"]
 keywords: ["ANA", "SFC"]
 description: "The journey to getting the elusive ANA Super Flyers Card."
-showFullContent: false
 draft: true
 ---
 
 Points was something always on the back of my mind. Maybe one day I'll get elite status, I keep telling myself. It was something that I always wanted to do, but I never found the time or money to do it. In 2019, I did 2.5 round trips from Toronto to Japan, and didn't even get enough points for Aeroplan silver / Star Alliance Silver, which is only halfway to Gold, where the good benefits are.
 
 Starting in late 2019, I started working full time in Japan. It was an exciting move and I'm enjoying life here. During the end of December, I started looking into points again. I already had 2 long haul round trips planned for 2020 - one between Tokyo and Singapore, and another between Tokyo and Toronto, so I figured that 2020 may be a good year to try and get elite status. I was aiming for Star Alliance Gold again since Star Alliance is the most convenient for me, so that means I should focus on ANA. Since it's the end of the year, points are about to reset, so there was no point focusing on Aeroplan which I had, so I could give ANA Mileage Club a try.
-
-![caption](/img/ana.jpg)
 
 With that in mind, the first task for me to do was find an ANA card with a good bonus. When I lived in Canada, I heard of the term "churning" before but did not know what I meant. Some quick research later and I found that it was the process of getting a credit card with a nice signing bonus, meet the requirements of the signing bonus, and then cancel the cards. So I had the right idea to start - find an ANA card since it would maximize the points I get since I would  likely book flights on ANA, as well as earn miles through my daily purchases. Unfortunately for me, credit card signing bonuses are few and far between in Japan, and the only good ones are Amex. Sure enough, Amex had some bonuses available. The card I targeted was the Amex ANA Gold. With 2000 miles given immediately, 10k miles for 100,000¥, 28k miles for 700,000¥ and 20k miles for 1,000,000¥, in total it was 70,000 miles for spending 1,000,000¥ in 3 months. 1,000,000¥ in 3 months may be a bit too much for me, so if I don't get that bonus, it's 50,000 miles for 700,000¥. That seems a bit reasonable, so I set my target, but I didn't pull the trigger on applying just yet.
 

@@ -2,7 +2,6 @@
 title: "Welcome to my technical blog"
 date: 2020-01-13T07:00:01+09:00
 author: "Dylan Lau"
-keywords: ["", ""]
 description: "Time to give this blogging thing a try."
 ---
 

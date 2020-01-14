@@ -2,10 +2,10 @@
 title: "ANA Super Flyers Card"
 date: 2020-01-11T21:21:01+09:00
 author: "Dylan Lau"
-cover: "img/ana.jpg"
 tags: ["travel", "ANA", "SFC"]
 keywords: ["ANA", "SFC"]
 description: "The journey to getting the elusive ANA Super Flyers Card."
+draft: true
 ---
 
 # Introduction

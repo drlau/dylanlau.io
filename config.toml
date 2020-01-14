@@ -24,12 +24,6 @@ location = "Tokyo, Japan"
     icon = "fab fa-linkedin fa-2x"
     weight = 2
     url = "https://linkedin.com/in/drlau/"
-[[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter fa-2x"
-    weight = 3
-    url = "https://twitter.com/aidiruu/"
-
 
 [languages]
 [languages.en]
@@ -55,11 +49,6 @@ readOtherPosts = "Read other posts"
     name = "Life Blog"
     url = "/life"
 
-    [[languages.en.menu.main]]
-    identifier = "misc"
-    name = "Style tests"
-    url = "/post"
-
 [languages.jp]
 languagename = "日本語"
 title = "よう"
@@ -82,8 +71,3 @@ readOtherPosts = "もっと見る"
     identifier = "life"
     name = "人生"
     url = "/jp/life"
-
-    [[languages.jp.menu.main]]
-    identifier = "misc"
-    name = "Style tests"
-    url = "/jp/post"

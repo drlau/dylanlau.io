@@ -3,6 +3,7 @@ title: "Setting in Japan"
 date: 2020-01-13T09:41:44+09:00
 author: "Dylan Lau"
 description: "Moving to Japan to live there can be a daunting experience. This was my experience."
+draft: true
 ---
 
 If you ever moved to another country before, I'm sure you're aware of how rough the process can be. Everyone has their own circumstances for moving to make the whole experience difficult, but here's mine.
