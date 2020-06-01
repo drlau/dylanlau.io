@@ -1,8 +1,16 @@
 {{ if .Get "src" }}
   <figure class="{{ with .Get "position"}}{{ . }}{{ else -}} left {{- end }}" >
-    <img src="{{ .Get "src" | safeURL }}" {{ with .Get "alt" }} alt="{{ . | plainify }}" {{ end }} {{ with .Get "style" }} style="{{ . | safeCSS }}" {{ end }} />
+    {{ if .Get "bordered" }}
+    <div style="position:relative">
+      <img src="{{ .Get "src" | safeURL }}" {{ with .Get "alt" }} alt="{{ . | plainify }}" {{ end }}/>
+      <div class="image-border">
+      </div>
+    </div>
+    {{ else }}
+    <img src="{{ .Get "src" | safeURL }}" {{ with .Get "alt" }} alt="{{ . | plainify }}" {{ end }}/>
+    {{ end }}
     {{ if .Get "caption" }}
-      <figcaption class="{{ with .Get "captionPosition"}}{{ . }}{{ else -}} center {{- end }}" {{ with .Get "captionStyle" }} style="{{ . | safeCSS }}" {{ end }}>{{ .Get "caption" }}</figcaption>
+      <figcaption class="{{ with .Get "captionClass"}}{{ . }}{{ else -}} center {{- end }}">{{ .Get "caption" }}</figcaption>
     {{ end }}
   </figure>
 {{ end }}

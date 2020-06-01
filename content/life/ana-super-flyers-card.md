@@ -1,26 +1,138 @@
 ---
-title: "ANA Super Flyers Card"
-date: 2020-01-11T21:21:01+09:00
+title: "All about ANA Super Flyers Card - the credit card with the best travel benefit in the world"
+date: 2020-01-22T15:45:29+09:00
 author: "Dylan Lau"
+cover: "/img/ana-sfc.jpg"
 tags: ["travel", "ANA", "SFC"]
-keywords: ["ANA", "SFC"]
-description: "The journey to getting the elusive ANA Super Flyers Card."
-draft: true
+keywords: ["ANA", "SFC", "Super Flyers Card", "Superflyers"]
+description: "The ANA Super Flyers Card is credit card with the best travel benefit in the world, only available in Japan. What is it, and how to get it?"
 ---
 
-# Introduction
+Chances are you have taken a plane before. You may have looked at some travel credit cards, flown Economy to all your destinations, trying to ignore the flyers in the higher classes. However, Japan is home to the credit card with the best travel benefit in the world - the ANA Super Flyers Card.
 
-Points was something always on the back of my mind. Maybe one day I'll get elite status, maybe one day I'll have enough points to redeem for a nice flight, I keep telling myself. It was something that I always wanted to do, but I never found the time or money to do it. In 2019, I did 2.5 round trips from Toronto to Japan, and didn't even get enough points for my loyalty program's special tiers for elite status.
+An ANA Super Flyers Card is a must have for anyone who enjoys flying. In this post, I'll talk about what it is, its benefits, and how to get one efficiently.
 
-Starting in late 2019, I started working full time in Japan. It was an exciting move and I'm enjoying life here. During the end of December, I started looking into points again. I already had 2 long haul round trips planned for 2020 - one between Tokyo and Singapore, and another between Tokyo and Toronto, so I figured that 2020 may be a good year to try and get elite status. I never even achieved Star Alliance Silver, but I set my goals for Star Alliance Gold since Star Alliance is the most convenient for me, but I needed to evaluate the feasibility first.
+# What is ANA Super Flyers Card?
 
-# What is Star Alliance?
+**ANA Super Flyers Card (SFC)** is a card that grants the cardholder similar benefits to that of an elite member of the ANA Mileage Club, which is ANA's frequent flyer program. Since the SFC is a credit card, you gain the benefits as long as you have keep the credit card by paying the annual fee. Of course, since this card offers special benefits, you can't just simply apply for it like other credit cards - you need to be a Platinum or Diamond member of the ANA Mileage Club.
 
-Star Alliance is the world's first and largest airline alliance. An airline alliance is a group of airlines that work together to provide their flyers with efficient ways to reach their destination, while the airlines benefit by directing their customers to a partner airline in the same alliance. Benefits are also shared at alliance level to improve the experience for their customers.
+{{% details summary="ANA Super Flyers Cards" %}}
+| Type    | Visa / Master / JCB           | AMEX                               | Diners Club                          |
+| ------- | ----------------------------- | ---------------------------------- | ------------------------------------ |
+| General | ![](/img/ana-sfc-general.png) |                                    |                                      |
+| Gold    | ![](/img/ana-sfc-gold.png)    | ![](/img/ana-sfc-gold-amex.png)    | ![](/img/ana-sfc-gold-diners.png)    |
+| Premium | ![](/img/ana-sfc-premium.png) | ![](/img/ana-sfc-premium-amex.png) | ![](/img/ana-sfc-premium-diners.png) |
+{{% /details %}}
 
-# What is Star Alliance Silver / Gold?
+The process of acquiring your own SFC requires time and money, and it is comparable to training. This is why the process of working hard to get your own SFC is called **SFC Training.**
 
-Star Alliance Silver / Gold are special statuses that grant you many benefits when taking any airline in Star Alliance. Star Alliance Silver does not have many benefits, but Star Alliance Gold is where the benefits are plentiful. These benefits include, but are not limited to:
+# ANA Mileage Club and Elite Membership
+
+ANA Mileage Club is ANA's frequent flyer program. Whenever you take a flight on ANA or one of their partner airlines, you can earn points called **Premium Points (PP)**. ANA's membership level depends on how many premium points you earn in a year.
+
+| Membership Level | Premium Points / Year |
+| ---------------- | --------------------- |
+| General          | 0                     |
+| Bronze           | 30,000                |
+| Platinum         | 50,000                |
+| Diamond          | 100,000               |
+
+The more Premium Points you earn in a year, the higher your membership status becomes. However, there are 2 major cons:
+
+1. Your Premium Points **reset to 0 at the end of every calendar year.**
+2. When you achieve an elite membership level above General, **it is only valid from the start of the next fiscal year(April) until the end of that fiscal year(March).**
+
+So, even if you work really hard and achieve an elite status, you can only keep it for 1 year, so you might be wondering if it is worth it.
+
+However, there is actually a way to keep your membership. This is by having an **SFC** mentioned above. If you're **Platinum** or **Diamond** status, you can apply for an SFC. While you have an SFC, you can enjoy similar benefits to that of a Platinum member. Here's a list of benefits you can get for each membership level and SFC.
+
+{{% details summary="Benefits by ANA membership level" %}}
+| Benefit                                                      | Bronze             | Platinum | Diamond  | SFC      |
+| ------------------------------------------------------------ | ------------------ | -------- | -------- | -------- |
+| Premium Member Service Desk                                  | ✔                  | ✔        | ✔        | ✔        |
+| ANA LOUNGE access                                            |                    | ✔        | ✔        | ✔        |
+| ANA SUITE LOUNGE access                                      |                    |          | ✔        |          |
+| Concierge Service                                            |                    |          | ✔        |          |
+| ANA Upgrade Seat Awards                                      | ✔                  | ✔        | ✔        | ✔        |
+| Domestic advance reservation                                 | ✔                  | ✔        | ✔        | ✔        |
+| Domestic seat reservation priority                           | ✔                  | ✔        | ✔        | ✔        |
+| Free international seat reservation                          |                    | ✔        | ✔        |          |
+| Prioritized Reservation Waiting List                         | ✔                  | ✔        | ✔        | ✔        |
+| Early reservations for domestic award tickets                | ✔                  | ✔        | ✔        | ✔        |
+| Waitlist reservations for domestic award tickets             |                    |          | ✔        |          |
+| Priority reservations for international award tickets and upgrades |                    | ✔        | ✔        | ✔        |
+| Waived international service charges                         |                    |          | ✔        |          |
+| **Star Alliance Status**                                     | **Silver**         | **Gold** | **Gold** | **Gold** |
+| Priority Check-in                                            | Premium Economy    | ✔        | ✔        | ✔        |
+| Priority Baggage Claim                                       |                    | ✔        | ✔        | ✔        |
+| Additional free baggage                                      | International only | ✔        | ✔        | ✔        |
+| Exclusive Security Check Point                               |                    | ✔        | ✔        | ✔        |
+| Priority boarding                                            |                    | ✔        | ✔        | ✔        |
+| Priority airport standby                                     | ✔                  | ✔        | ✔        | ✔        |
+| Free valet parking (Narita)                                  |                    | ✔        | ✔        | ✔        |
+| Priority parking (Haneda)                                    |                    | ✔        | ✔        | ✔        |
+| Frequent Visitor e-channels (Hong Kong)                      | ✔                  | ✔        | ✔        | ✔        |
+| Upgrade Points                                               | ✔                  | ✔        | ✔        | ✔        |
+| Flight bonus miles                                           | 40-55%             | 90-105%  | 115-130% | 35-50%   |
+| Renewal Bonus Miles                                          | ✔                  | ✔        | ✔        |          |
+| No Mileage Expiry                                            |                    |          | ✔        |          |
+| Special ANA SKY COIN conversion rate                         | ✔                  | ✔        | ✔        | ✔        |
+| Convert Upgrade Points to ANA SKY COIN                       | ✔                  | ✔        | ✔        | ✔        |
+| IHG ANA Hotels Group Japan discount                          |                    | ✔        | ✔        | ✔        |
+| Free ATM withdrawals with ANA Mileage Club Financial Pass Visa Debit Card | ✔                  | ✔        | ✔        |          |
+| Original name tag                                            |                    |          | ✔        | ✔        |
+| Exclusive name tag and baggage tag for members with over 150,000 PP |                    |          | ✔        |          |
+| ANA SUITE LOUNGE voucher with over 80,000 PP                 |                    | ✔        |          |          |
+| Diamond Exclusive Benefits                                   |                    |          | ✔        |          |
+| ANA Selection for Premium Members                            | ✔                  | ✔        | ✔        | ✔        |
+| Lifestyle Magazine                                           |                    | ✔        | ✔        | ✔        |
+| Diary & Calendar Gifts                                       |                    | ✔        | ✔        | ✔        |
+{{% /details %}}
+
+By the way, the SFC benefits are linked to having the credit card, and since it is a credit card, you can issue supplementary cards. This means that **you can also give your family SFC benefits** by issuing a supplementary card to them.
+
+# Star Alliance Status
+
+{{< image src="/img/star-alliance-gold.png" position="center" title="Star Alliance Gold" bordered="true">}}
+
+There is one benefit that particularly stands out, and I bolded it in the table above. It is **Star Alliance Status**. Here is the row again:
+
+| Benefit              | Bronze | Platinum | Diamond | SFC  |
+| -------------------- | ------ | -------- | ------- | ---- |
+| Star Alliance Status | Silver | Gold     | Gold    | Gold |
+
+**SFC membership grants you Star Alliance Gold.** If you travel internationally, this is without a doubt **the best benefit of having an SFC.** Star Alliance is the largest airline alliance in the world, consisting of the following airlines.
+
+{{% details summary="Star Alliance Members" %}}
+- Aegean Airlines
+- Air Canada
+- Air China
+- Air India
+- Air New Zealand
+- ANA
+- Asiana Airlines
+- Austrian Airlines
+- Avianca
+- Brussels Airlines
+- Copa Airlines
+- Croatia Airlines
+- EgyptAir
+- Ethiopian Airlines
+- EVA Air
+- LOT Polish Airlines
+- Lufthansa
+- Scandinavian Airlines
+- Shenzhen Airlines
+- Singapore Airlines
+- South African Airways
+- Swiss International Air Lines
+- TAP Air Portugal
+- Thai Airways
+- Turkish Airlines
+- United Airlines
+{{% /details %}}
+
+Each airline's frequent flyer program membership level also corresponds to a Star Alliance status level. Star Alliance has 2 elite statuses - silver and gold, and they grant you many benefits when taking any airline in Star Alliance. Star Alliance Silver does not have many benefits, but Star Alliance Gold is where the benefits are plentiful. These benefits include, but are not limited to:
 
 - Priority airport check-in
 - Priority baggage handling
@@ -33,94 +145,228 @@ Star Alliance Silver / Gold are special statuses that grant you many benefits wh
 
 You can find the complete details on the [Star Alliance Website](https://www.staralliance.com/en/recognition).
 
-In order to achieve Star Alliance Silver / Gold, you need to be a certain tier of an airline's frequent flyer program. Each airline is free to select what tiers in their frequent flyer program is associated with what Star Alliance tier. For example, with Air Canada and their frequent flyer program Aeroplan, there are 5 special tiers: Prestige 25K, Elite 35K, Elite 50K, Elite 75K and Super Elite 100K. Elite 35K grants Star Alliance Silver and Elite 50K, Elite 75K and Super Elite 100K grant Star Alliance Gold. You only have the Star Alliance status while you have the associated program's frequent flyer tier. In Aeroplan's case, when you reach a tier, you only have that tier for a year, and then you have to re-qualify. So, if you were to get Elite 50K, you'd have Star Alliance Gold for the year that you have Elite 50K status, and then you need to re-qualify for Elite 50K in order to have Star Alliance Gold again.
+ANA is the only airline in Star Alliance that offers semi-permanent Star Alliance Gold.
 
-Star Alliance is the most convenient for me since Canada only has Air Canada as their airline, and Air Canada is part of Star Alliance. Japan has 2 large airlines - Japan Airlines and ANA. ANA is a member of Star Alliance, so they should be the airline that I focus on. Since it's the end of the year, points are about to reset, so there was no point focusing on Aeroplan which I had, so I could give ANA Mileage Club a try.
+# How to get an SFC
 
-# How does the Star Alliance Status relate to Miles for booking award flights?
+> Before continuing, I want mention the first requirement of getting an SFC separately. **You must be a resident of Japan.** SFC is a credit card, so naturally it requires a credit check. In order to even be eligible for a credit check, you need to **live** in Japan.
 
-Each airline has their own term for units of value for their award flights, but I will refer to them as "miles". Miles for award tickets are related to points for earning Star Alliance Silver / Gold in the fact that points for Star Alliance Silver / Gold are proportionally earned with Miles. You earn both miles and points by flying, but you can earn miles through making purchases with an associated credit card, whereas points must be earned by flying. Each Airline has their own rules, but all of them follow this pattern. To earn Star Alliance status, you have to reach a threshold of points which can only be earned by flying, and generally a certain amount of that flying must be with the specific airline matching the frequent flyer program.
+The major requirement of getting an SFC is reaching **Platinum or Diamond** membership. Since Platinum is lower than Diamond, you only need to reach Platinum. To become a Platinum member, you need to have 50,000 PP. Once you reach Platinum status, you request an application from ANA, and the rest is a standard credit card application process.
 
-# Getting started with ANA Mileage Club
+So, how can you efficiently get 50,000 PP in 1 calendar year? This process is called **SFC Training.**
 
-The first thing to look into was how to achieve Star Alliance Gold with ANA Mileage Club. For comparison, for Aeroplan, there was 3 main components to getting Star Alliance Gold, which are Altitute Qualifying Miles (AQM), Altitude Qualifying Segments (AQS) and Altitude Qualifying Dollars (AQD). AQM is the variable amount that depends on the distance of each flight, AQS is a fixed amount equal to the number of flights you take, and AQD is the base price of an Air Canada flight. To earn Star Alliance Gold, you need at least Elite 50K, which requires 6000 AQD, and either 50,000 AQM or 50 AQS. Aeroplan's currency to book award flights is "Miles", and this currency can be earned by flying proportional to the AQM value of that flight, but you can also earn Miles with associated Aeroplan credit cards. From the description of AQM, AQS and AQD, those can only be earned by flying, and you cannot earn them through credit card purchases.
+## How to earn PP
 
-ANA Mileage Club functions in a similar manner. ANA's currency to book award flights is also "Miles", which can also be earned through ANA associated credit cards and by flying. ANA's statuses are Bronze, Platinum and Diamond, and each one is earned upon reaching a Premium Point (PP) threshold at 30,000, 50,000 and 100,000 respectively. Furthermore, at least half of each requirement must be earned from flying ANA flights. Premium Points are earned at a rate proportional to the distance of each flight, and the ticket class. To reach Star Alliance Gold, I need to reach ANA Platinum, so my goal is 50,000 PP.
+PP is points that can only be earned by taking **paid** flights on any airline in Star Alliance. The flights must be purchased, so award tickets will give you 0 PP. Half of the 50,000 PP requirement (25,000 PP) **must** be earned on ANA flights. In the case of codeshare flights, the flight must be operated by ANA.
 
-# Finding the right credit card for churning
+Generally, the farther you go and the higher ticket class you purchase, the more PP you earn. There is also an extra multiplier on the PP earned, which is 2x on ANA domestic flights, 1.5x on ANA flights to/from Asia and Oceania, and 1x for everything else.
 
-Since I would be affiliating my points with ANA, to maximize the potential value I can get through this process, the first task for me to do was find an ANA branded credit card with a good initial spending bonus. When I lived in Canada, I heard of the term "churning" before but did not know what I meant. Some quick research later and I found that it was the process of getting a credit card with a nice bonus upon signing/reaching a minimum spend amount, meet the requirements of the bonus, and then cancel the cards before the annual fee. So I had the right idea to start - find an ANA card since it would maximize the points I get since I would book flights on ANA, as well as earn miles through my daily purchases. Unfortunately for me, credit card bonuses are few and far between in Japan, and the only good ones are Amex. Sure enough, Amex had some bonuses available. The card I targeted was the Amex ANA Gold. With 2000 miles given immediately, 10k miles for 100,000¥, 28k miles for 700,000¥ and 20k miles for 1,000,000¥, in total it was 60,000 miles for spending 1,000,000¥ in 3 months. You also get 10,000 miles once you use the card for 1,000,000¥ total, with no time restriction. 1,000,000¥ in 3 months may be a bit too much for me, so if I don't get that bonus, it's 40,000 miles for 700,000¥. That seems a bit reasonable, so I set my target, but I didn't pull the trigger on applying just yet.
+The most popular ticket to book for SFC Training purposes is **Domestic Premium Class**. Of course, if you have lots of time and money, you can fly as much as you like and earn 50,000 PP, though I wouldn't call it "training" for those people. I'm envious of those kinds of people.
 
-Come January 6, 2020. I only had 1 Japanese credit card at the time, and I noticed that my bank account was not automatically debited. In Japan, credit cards are paid through automatic withdrawals from your bank account on the payment date. While convenient, this means that if something goes wrong with withdrawing, it's basically a guaranteed late fee. On December 27, 2019 (Friday), I received a mail from my credit card company asking to re-submit the automatic withdrawal form because I messed up something on it. I did that and sent the mail back the following week on December 31 (Tuesday). Given that many companies gave their employees that week off for New Year holiday, and mail takes about 2 days, it is likely that they did not receive the form in time. I realized this on January 6, which was the payment due date, but since it was still Jan 6, it's technically not a "missed" or "late" payment yet. Although the timing of the mail and holidays mean that I should not be penalized for this missed/late payment, and everyone I talked to said that my credit history will probably not get hit, I didn't want to risk anything so I decided to quickly check for any other sign up bonuses and apply for a card before the end of the day.
+For the rest of us, earning 50,000 PP is a game of optimization and trade-offs. You want to find a ratio of time and money that you are happy with, but also may want to go to various destinations to enjoy yourself. You may also only want to fly on weekends and holidays to minimize your use of vacation days. If you fly often enough, it is possible to earn all 50,000 PP within 1 month, but you can definitely spread out your flights throughout the year.
 
-# ANA Super Flyers Card
+The cost of SFC training is **between 300,000¥ and 700,000¥**, with the most common cost being between 500,000¥ and 600,000¥.
 
-Upon doing a bit more research on ANA cards in general, I found a card that interested me - the ANA Super Flyers Card. This elusive card is a special type of credit card that is Japan only and has an incredible benefit - as long as you hold the card, you are granted ANA Super Flyers status, which _is basically the equivalent of ANA Platinum, including the Star Alliance status._ Bronze gives you Star Alliance Silver, while Platinum and Diamond give Star Alliance Gold. So a better meaning of the credit card is, **as long as you have the card (by paying the annual fee), you have Star Alliance Gold**. This kind of benefit is completely unheard of to me, as well as the rest of the world. When I lived in Canada, I was close to giving up on getting Star Alliance Gold because of the time and money I'd have to invest, and it is only valid for 1 year. But here, as long as I hold this credit card, I can have Star Alliance Gold semi-permanently. So of course, I decided to get this card. There are 8 different Super Flyers Cards, but there was 1 key point I was missing to apply for this card. **In order to apply for this card, you must currently be an ANA Platinum or Diamond member**. So, this means I only need to get ANA Platinum _once_, and then I have Platinum semi-permanently. Since it is subject to a credit check, I decided I should pick a card that has a non-Super Flyers equivalent and could be converted once I reach ANA Platinum. The ANA Gold Amex was one of those cards, so I quickly applied for the ANA Gold Amex before my credit history potentially gets affected. To my surprise, I was approved immediately and the card came 3 days later.
+## ¥ / PP ratio
 
-# Deciding on flight route to efficiently earn PP
+The cost of each PP in Yen is the usual unit of measurement when it comes to SFC training. This can be calculated by dividing the fare price by the PP acquired from the flight. 
 
-With card in hand and goals in mind, I was ready. Meet the 700,000¥ or 1,000,000¥ in 3 months minimum spending requirement, and get ANA Platinum by earning 50k PP, with 25k from ANA flights. So, this means I need to do a lot of flying. PP cannot be earned on award tickets - I have to pay for my flights. So this is perfect, I buy tickets with my new Amex to meet the minimum spend and the PP requirement, as well as get bonus miles for booking through ANA directly. I am not rich and don't have too many vacation days since I just started working in Japan, so I needed efficient routes. Since I am in Japan on a Visa, I don't want to raise eyebrows at customs for many re-entries in a short period of time, so I should stick with domestic routes, with 1 or 2 international routes at most.
+Lower ratio is better. Efficient SFC training tends to target a ratio of less than 10¥ / PP. Thus, the typical cost is derived from 50,000 PP * 10¥ / PP = 500,000¥.
 
-PP is earned at a similar ratio to flying - the further distance and higher class ticket you purchase, the more PP you earn. So I had to find the right balance between long flights, premium tickets, scheduling and prices. Some Google searches in Japanese led to the term SFC修行, or SFC (Super Flyers Card) Training, which is the process of efficiently flying to meet the requirements for Super Flyers Card. The overwhelmingly popular route for this process is Haneda <-> Okinawa round trips. There are many HND <-> OKA flights daily, so much so it was possible to do 2 round trips in a day. I am based in Tokyo, so Haneda is convenient for me, and with that I started my planning.
+# SFC Training Routes
 
-There are 4 primary fare types to note. They are as follows:
+There are numerous flight routes that can be used for SFC training. These are the routes that are the most popular.
 
-| Name                   | Type            | PP earned per HND<->OKA flight | Cost (¥) | ¥ / PP |
-| ---------------------- | --------------- | ------------------------------ | -------- | ------ |
-| (Super) Value          | Economy         | 1476                           | Varies   | Varies |
-| Flex for cardholder    | Economy         | 2368                           | 41860    | 17.68  |
-| (Super) Value Premium  | Premium Economy | 2860                           | Varies   | Varies |
-| Premium for cardholder | Premium Economy | 3352                           | 55860    | 16.67  |
+## Tokyo ⟷ Okinawa
 
-Value and Value Premium fares may have the "Super" prefix. When they have the Super prefix, it means that the tickets were booked at least 28 days in advance, are cheaper, and are more limited than the seats without the "Super" prefix. Furthermore, these are seasonal fares and are gone at the end of March. The cardholder fares are discounted regular fares that I have access to since I have the ANA Amex, and are used as a backup. I received my card on January 9th, so 28 days later is February 7, which is a Saturday - so I had to make a fast decision on my flights for that Saturday, which I absolutely will want to fly on if seats are available.
+{{< image src="/img/ana-okinawa.jpg" captionClass="muted-caption center" title="Okinawa" caption="ANA plane arriving over the sea of Okinawa" bordered="true" >}}
 
-The other thing to keep in mind is the cost. The Value fares vary depending on day and time, whereas the cardholder fares are fixed. The cardholder fares are fixed value, so if the ¥ / PP cost is higher than 16.67, I should book the cardholder fare. This means I can easily calculate the break even point for the Value fares by multiplying the PP earned by 16.67.
+The overwhelmingly most popular route is round trips between Tokyo (Haneda) and Okinawa (Naha).
 
-| Ticket type           | PP earned per HND<->OKA flight | Max cost (¥) |
-| --------------------- | ------------------------------ | ------------ |
-| (Super) Value         | 1476                           | 24605        |
-| (Super) Value Premium | 2860                           | 47676        |
+In the extreme case, you can reach 50,000 PP using only round trips between Haneda (HND) and Naha (OKA). The PP you can get and the required round trips are:
 
-In general, tickets are not this expensive but during peak periods, such as flying to Okinawa on a Saturday where Monday is a holiday, it is possible for the tickets to exceed the price. If the prices exceed the max cost, it makes more sense to purchase the Premium for cardholder fare. One key restriction of the Premium for cardholder fare is that it must be booked in a pair, whether it is round trip or the same one way flight twice. What this means is that by utilizing this fare, I can travel during peak periods while also providing a ceiling for the ¥ / PP cost. The advantages should become clear soon.
+| Ticket Class  | PP Earned (One way) | PP Earned (Round trip) | Required Round Trips |
+| ------------- | ------------------- | ---------------------- | -------------------- |
+| Premium Class | 2860                | 5720                   | 9 (51,480 PP)        |
+| Economy       | 1476                | 2953                   | 17 (50,184 PP)       |
 
-So to quickly recap the process, the goals are:
+If you use Premium Class, if you do a HND ⟷ OKA round trip once a month, if you start SFC training in January, you can finish it in September. Of course, this kind of schedule can be very rough unless you really like Okinawa.
 
-- Reach 50,000 PP
-- Book efficient flights using the (Super) Value (Premium) fares
-- Spend enough to make spending 700,000¥ within 3 months easy
+## SIN Touch
 
-The restrictions / conditions are:
+{{< image src="/img/ana-singapore.jpg" captionClass="muted-caption center" title="Singapore" caption="Jewel Changi Airport" bordered="true" >}}
 
-- Can only travel on weekends or holidays
-- Subject to seat availability
-- Feb 15 past 5pm and Feb 16 are no good
-- Feb 29 - Mar 3 are no good
+Another popular route is known as the **SIN Touch.** The Singapore (SIN) Touch involves a round trip between Okinawa (OKA) and Singapore (SIN). It's also given the name "Touch" because it's just a "touch" of Singapore.
 
-# Scheduling Flights
+ANA does not have a direct flight from Okinawa to Singapore. So, when you book a round trip, the flight actually does like this:
 
-This section is incredibly verbose with regards to my decision process for scheduling flights. The explanation is very thorough with the comparison of price, schedule restrictions and flight availability. It will most likely not be interesting to you as a reader unless you are looking into doing the SFC training process yourself or are interested in optimization problems in general. If you do not belong in either of these groups, I recommend you skip this section. For everyone else, let's get started.
+> Okinawa → Tokyo (Haneda / Narita) → Singapore → Tokyo (Haneda / Narita) → Okinawa
 
-Since it was January 9th, Feb 7th (Saturday) was the earliest day that still has Super Value fares, so I had to make my decision quickly. However, Feb 10th (Tuesday) is a holiday, so Saturday flights to Okinawa with the Super Value (Premium) exceeded the 16.67 ¥ / PP ratio. Similarly, flights on Tuesday back to Haneda with the Super Value (Premium) fare also exceeded the 16.67 ¥ / PP ratio. If you remember what I mentioned earlier about Premium Cardholder fares, they have to be booked in pairs. So, here's the first candidate for that fare: HND->OKA on Feb 7th in the morning, and OKA->HND to Feb 10th in the evening.
+As you can see, the trip starts and ends with Okinawa. So if you live in Tokyo, you can add on a Tokyo ⟷ Okinawa round trip as described above. When you add that on, you may have a schedule that looks like this:
 
-If I were to book those flights, I would have to stay in Okinawa during those 3 days. However, Feb 9(Monday) is not a holiday. So I would have to return back to get to work, or take a vacation day. This is SFC training though, so I have to be efficient. Since the typical person would try to maximize their long weekend, they would take Monday off and stay in Okinawa from Saturday to Tuesday. This means that flights from Okinawa to Tokyo on Feb 7, Tokyo to Okinawa on Feb 10, and flights in either direction on Feb 8 and 9 should be cheap, and there should be Super Value Premium availability for those flights as well. So, to maximize the PP I can get at good value in short time, I should book OKA->HND on Feb 7, HND->OKA on Feb 10 and a same day round trip on Feb 8.
+| Flight            | Departure Time      | Arrival Time                 |
+| ----------------- | ------------------- | ---------------------------- |
+| Tokyo → Okinawa   | Friday evening      | Friday evening               |
+| Okinawa → Tokyo   | Friday evening      | Friday late night            |
+| Tokyo → Singapore | Saturday morning    | Saturday afternoon / evening |
+| Singapore → Tokyo | Saturday late night | Sunday morning               |
+| Tokyo → Okinawa   | Sunday afternoon    | Sunday afternoon / evening   |
+| Okinawa → Tokyo   | Sunday evening      | Sunday late night            |
 
-Based on availability, I found the following fares:
+This is just an example, which is also possible to do in just one weekend, so you can do it without using a vacation day.
 
-TODO
+By the way, Okinawa is added on as the second point of the round trip because it adds an extra round trip between Haneda and Okinawa for around 10,000¥, even for Premium Economy. PP earned from that extra HND ⟷ OKA round trip is dependent on the ticket class.
 
-To minimize the number of flights I had to take to reach the PP requirement, I prioritized Premium fares, but you'll see one fare above that is Economy. The price was only 4 digits, so that price was way too good to pass up. You can see from the ¥ / PP ratios that the Economy fare's ¥ / PP ratio is at a ridiculously low 6.44 ¥ / PP. Now, adding the Premium Cardholder fares to the above fares, we can see the overall schedule.
+| Ticket Class                | PP Earned (One way) | PP Earned (Round trip)     |
+| --------------------------- | ------------------- | -------------------------- |
+| Y / B / M (Premium Economy) | 1968                | 3936                       |
+| U / H / Q (Economy)         | 1377                | 2754                       |
+| V / W / S (Value Economy)   | 984                 | 1968                       |
 
-TODO
+Which ticket class you use is up to you, but it's possible to earn more than 10,000 PP with this route, before including the additional HND ⟷ OKA round trip. With this route, you can get a ¥ / PP ratio of 8¥ / PP.
 
-With about 2.5h-3h in Okinawa with each trip, this is a good schedule, so I went ahead and reserved and purchased that, and the immediate deadline for the Value fares is satisfied.
+## Overseas Tickets
 
-Now, I was also eager to try flying in a class that is not Economy for the first time in my life, and since the Premium Cardholder fare is fixed, it doesn't matter when I book it, so I also went ahead and booked a flight for January 13th(Monday), which is a holiday.
+Overseas Tickets are international round trip tickets that have the international destination as the start/end point. For example, a round trip consisting of:
 
-Now, let's check in with the remaining PP after taking all those trips. With the currently planned trips, I would get 23464 PP, which means I am approximately halfway done with 4 round trips. So, let's continue with the second half.
+1. Tokyo → Singapore
+2. Singapore → Tokyo
 
-Starting with Feb 15th, I had family arriving at 5PM so if I were to do a round trip on that day, I would have to return by 5PM. Upon checking flight availability, I found OKA -> HND flights with Super Value Premium fare availability and it returns at 15:20, which is sufficient. Unfortunately, there was no HND -> OKA flights available for that morning with Super Value Premium fare, so I would have to book the cardholder fare. Again, the cardholder fare must be booked in pairs, so I would have to find one more flight to book with the cardholder fare, so I need to find one more peak time. Fortunately, on the following week, Feb 24 (Monday) is a holiday, so Feb 24 OKA->HND and Feb 22 HND->OKA are ideal times to use the cardholder fare. Upon checking the seat availability, all usable OKA->HND flights on Feb 24 was completely booked even with cardholder fare, and economy is way too expensive to consider it worth the value, so Feb 24 is a no go. For Feb 23, to my surprise, OKA->HND flights were fully booked for the Super Value Premium fare. There was availability for cardholder fare, so now my consideration is between HND->OKA on Feb 22 or OKA->HND on Feb 23. My decision would come down to the availability of the corresponding Value Premium flight during that time - so either OKA->HND on Feb 22 or HND->OKA on Feb 23. Unsurprisingly, seat availability in that timeframe was plentiful, but HND->OKA on Feb 23 was slightly cheaper. Thus, I booked HND->OKA (Feb 15) and OKA->HND (Feb 23) with the cardholder fare, and OKA->HND (Feb 15) and HND->OKA(Feb 23) with Super Value Premium. This added another 2 round trips, so just 2 more to go.
+The overseas tickets version would be:
 
-I already planned a Singapore trip from Feb 29-Mar 3 so the dates between then are a no go. So this meant I had to look at March availability, which is where it gets troublesome. Between around the 3rd week of March and the first week of April, it is a school holiday, and since the Value fares end at the end of March, they really end when the school holidays begin, which is Mar 21 (Saturday). Actually, Mar 20 (Friday) is also a holiday. So I had Mar 7, 8, 14 and 15 available, and I had to pick 2 of those days to do a round trip. March is also the beginning of the regular season, so ticket prices went up a little bit. So, the dates I would pick are dependent on the seat availability. 
+1. Singapore → Tokyo
+2. Tokyo → Singapore
 
-Before that though, a quick math check on the points I would earn. Given the current fares, I would reach a total PP of 47328. This means I need another 2672 points, which is 1 Economy round trip. The other option is to credit my Singapore trip. My Singapore trip is an S class ticket both ways, so putting that into the simulator returns a PP yield of 2484 one way, so 4968 round trip. If I were to add it to my current total, it would be 52296. The PP difference between Premium Economy and Economy is approximately 1500, so if I credited my Singapore trip, I could afford to downgrade one of my Premium Economy fares to Economy. Upon checking my schedule, I would be able to change OKA->HND (Feb 15) flight to Economy and the price would decrease from 40210 to 10510. Thus, with that in mind, I booked my remaining flights and have a schedule that looks like this:
+Of course, this means that you need to book your tickets to get to Singapore in the first place separately, but sometimes, overseas tickets are cheaper. Keep this in mind if you plan to go overseas to the same destination more than once for SFC training.
 
+Some other international destinations used for SFC training:
+
+- Kuala Lumpur
+- Bangkok
+- Ho Chi Minh City
+- Sydney
+
+# Tips for successful SFC Training
+
+SFC Training is a big commitment and you want to make sure you get the best value from it. Here are some tips for maximizing the value and ensuring a smooth training process.
+
+## If you never had a Japanese ANA card, sign up for ANA My Friend Program before getting one
+
+First things first, if you don't have an ANA card, sign up for **ANA My Friend Program** (マイ友プログラム), then sign up for an ANA card. If you sign up for [ANA My Friend Program](https://www.ana.co.jp/ja/jp/amc/reference/anacard/mgm/regist/) (Japanese only), you and a friend can get bonus miles when you issue an ANA card.
+
+The number of miles you get depends on the card type issued, but you can only get it once, so if you plan to issue multiple cards, make sure you issue the highest level one first!
+
+| Card Type        | Bonus Miles |
+| ---------------- | ----------- |
+| ANA Card         | 1000        |
+| ANA Wide Card    | 2000        |
+| ANA Gold Card    | 2000        |
+| ANA Premium Card | 10000       |
+
+To sign up for the ANA My Friend Program, go to the page and click the button that says 登録用ページ. From there, you can enter a referral's details and your own information. If you need someone's details to enter, feel free to use mine:
+
+| Field            | Value    |
+| ---------------- | -------- |
+| 紹介者氏名（姓） | ラウ     |
+| 紹介者氏名（名） | デイラン |
+| 紹介番号         | 00076715 |
+
+## Get the right credit card(s) before booking flights
+
+Before booking any flights, you should get 1 or 2 credit cards to satisfy the following conditions:
+
+1. Can be switched to an SFC equivalent
+2. Signup bonus with large minimum spend
+
+Both of the conditions are not mandatory, but highly recommended.
+
+Starting with the first condition: **Can be switched to an SFC equivalent.** Since SFC is a credit card, it requires a credit check. This also means that even if you reach 50,000 PP, if you fail the credit check, you cannot get your SFC. You do not want to be in this situation.
+
+If you get a credit card that has an SFC equivalent, you can switch your card to the SFC equivalent without a credit check. This eliminates the risk of failing a credit check. Also, you can freely switch your brand of SFC after getting one.
+
+{{% details summary="Credit cards with SFC equivalents" %}}
+| Type    | Visa / Master / JCB           | AMEX                               | Diners Club                          |
+| ------- | ----------------------------- | ---------------------------------- | ------------------------------------ |
+| General | ![](/img/ana-general.png) |                                    |                                      |
+| Gold    | ![](/img/ana-wide-gold.png)    | ![](/img/ana-gold-amex.png)    | ![](/img/ana-diners.png)    |
+| Premium | ![](/img/ana-premium.png) | ![](/img/ana-premium-amex.png) | ![](/img/ana-premium-diners.png) |
+{{% /details %}}
+
+The second condition is **Signup bonus with large minimum spend.** First, I'd like to give a primer on **churning.** Simply put, churning is the process of signing up for credit cards with large signup bonuses in the form of miles, points, or cash back, meeting the requirements of the bonus, and then cancelling the card. It's a way of maximizing credit card rewards.
+
+Usually the bonuses require spending some amount of money within a short time. Since you will be purchasing a lot of flights, you should get a card to maximize the return you can get from those purchases. Unfortunately, signup bonuses are relatively rare in Japan, so there aren't many cards you can choose from. Most of the cards with signup bonuses are Amex.
+
+By the way, if you have a churning hobby, if you have access to US credit cards, I recommend you stick with those cards for churning purposes.
+
+There's 2 recommended cards a bit further down.
+
+## Start planning early
+
+When you begin training, it is very important to make a rough plan. You should make a budget, think about where you want to go and what dates you can fly.
+
+The process involves taking a lot of flights, so make sure you plan your schedule carefully. Even if you find a date with a cheap fare, you may need to adjust your schedule so you can take the flight. At peak times, the most efficient fares sell out fast. Schedule your flights early so you can get the fares you want.
+
+## Use Domestic Premium Class at least once
+
+Domestic Premium Class offers first class services that are similar to what you can get after you get your SFC.
+
+This includes priority check-in, security, boarding, lounge access and baggage claim. Being able to experience it early may help motivate you.
+
+By the way, if you have never used an airport lounge before, I highly recommend that you do so. After many years of waiting for flights by the gate, being able to relax in a lounge was a game changer for me.
+
+## Take care of yourself and enjoy!
+
+**This is the most important part.** Don't push yourself too hard to get your SFC. Visit the most popular sightseeing spots wherever you go, and go to the events that interest you. Also, watch your health during the process. You don't want to get sick during training.
+
+Enjoy flying. Enjoy your trip.
+
+# Bonus: Credit Cards
+
+Here's a quick summary about the credit cards you want to get before training. As a reminder, here's the 2 conditions you want to satisfy with your credit cards.
+
+1. Can be switched to an SFC equivalent
+2. Signup bonus with large minimum spend
+
+Signup bonuses change all the time and this post may not reflect ongoing campaigns, so do your research for deciding on a card with a signup bonus.
+
+{{% details summary="ANA Gold Amex - satisfy both conditions with 1 card!" %}}
+
+There's actually one card that satisfies both conditions on its own. It is the ANA Amex Gold.
+
+{{< figure src="/img/ana-gold-amex.png" class="center" >}}
+
+This card has an SFC equivalent so it can be switched without a credit check. Also, if you're a foreigner, Amex cards are relatively easy to get, even though this is a gold card.
+
+The annual fee is 34,100¥ but comes with plenty of benefits since it's an Amex. It earns 1 mile per 100¥, but when booking flights on ANA, it gives 3 miles per 100¥. Also, your miles are stored as Amex Membership Rewards, so they don't expire.
+
+If you get a referral to this card, when you spend 1,000,000¥ within 3 months, you can get up to 70,000 ANA miles. You might think that the spend requirement is high, but remember you need to spend a lot of money to book the flights anyway. Also, in the low season, a Tokyo ⟷ New York round trip is 75,000 miles.
+
+If you need a referral link, please [contact me by email](mailto:aidillau@gmail.com) and I will give you a link within a few hours!
+
+{{% /details %}}
+
+{{% details summary="ANA Wide Gold - switchable card with excellent cost performance" %}}
+
+This card has the best cost performance out of all the cards.
+
+{{< figure src="/img/ana-wide-gold.png" class="center" >}}
+
+This card has an SFC equivalent and can be converted without a credit check. It is issued by SMBC and is a bit harder to get than the Amex if you're a foreigner.
+
+Normally, the annual fee is 15,400¥ and it gives 1 mile per 100¥, but if you use online statements, set up revolving payments and use more than 1,000,000¥ per year with the card, the annual fee becomes 10,450¥ (Visa only) and you can get up to 1.648 miles per 100¥. 
+
+Your points get stored as World Present points, which expire after 3 years, so combining that with ANA miles expiring after 3 years gives your miles a total expiry of 6 years.
+
+Unfortunately, starting in 2021, the bonus for at least 1,000,000¥ per year will be removed and the max miles you can get per 100¥ becomes 1.348 miles. This card also does not have an initial spending bonus. All things considered though, it is still an excellent card and worth considering.
+
+{{% /details %}}
+
+# If you prefer Japan Airlines and Oneworld
+
+If you prefer using Japan Airlines (JAL) or Oneworld alliance's airlines for your flights, JAL has a special card called **JAL Global Club (JGC)** which is more or less then same as SFC. The main difference is that the elite status requirement is slightly easier to obtain, and the benefits are for Oneworld instead of Star Alliance.
+
+There's a few other differences that I can cover in another post, but overall everything in this post has a JGC equivalent.
+
+# Summary
+
+SFC training is highly recommended. It is something you can only get while living in Japan, and any flyer outside of Japan would love to get this card. I completed SFC training myself in 2020 which involves 7 HND ⟷ OKA round trips in Premium Economy and 3 HND ⟷ OKA round trips in Economy. It was on the more expensive side because I made the decision on a whim in January but I'm still glad I did it. With a proper time and money investment, you too can have your very own SFC and share the benefits with your family for many years to come.

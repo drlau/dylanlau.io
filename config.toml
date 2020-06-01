@@ -4,6 +4,10 @@ paginate = 5
 title = "Hi"
 DefaultContentLanguage = "en"
 favicon = "favicon.ico"
+enableRobotsTXT = true
+
+[markup.goldmark.renderer]
+unsafe = true
 
 [params]
 keywords = "blog,developer,personal"

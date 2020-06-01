@@ -21,7 +21,11 @@
     {{ end }}
 
     {{ with .Params.Cover }}
-    <img src="{{ . | absURL }}" class="post-cover center" />
+    <div class="post-cover center">
+      <img src="{{ . | absURL }}"/>
+      <div class="image-border">
+      </div>
+    </div>
     {{ end }}
 
     <div class="post-content">
