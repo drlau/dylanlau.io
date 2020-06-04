@@ -73,5 +73,5 @@ readOtherPosts = "もっと見る"
 
     [[languages.jp.menu.main]]
     identifier = "life"
-    name = "人生"
+    name = "生活"
     url = "/jp/life"
