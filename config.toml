@@ -24,9 +24,14 @@ location = "Tokyo, Japan"
     weight = 1
     url = "https://github.com/drlau/"
 [[params.social]]
+    name = "Email"
+    icon = "fa fa-envelope fa-2x"
+    weight = 2
+    url = "mailto:hi@dylanlau.io"
+[[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin fa-2x"
-    weight = 2
+    weight = 3
     url = "https://linkedin.com/in/drlau/"
 
 [languages]

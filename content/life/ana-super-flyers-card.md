@@ -341,7 +341,7 @@ The annual fee is 34,100¥ but comes with plenty of benefits since it's an Amex.
 
 If you get a referral to this card, when you spend 1,000,000¥ within 3 months, you can get up to 70,000 ANA miles. You might think that the spend requirement is high, but remember you need to spend a lot of money to book the flights anyway. Also, in the low season, a Tokyo ⟷ New York round trip is 75,000 miles.
 
-If you need a referral link, please [contact me by email](mailto:aidillau@gmail.com) and I will give you a link within a few hours!
+If you need a referral link, please [contact me by email](mailto:hi@dylanlau.io) and I will give you a link within a few hours!
 
 {{% /details %}}
 

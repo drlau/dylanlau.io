@@ -459,7 +459,8 @@ hr {
 .about ul.social-list li {
   display: inline-block;
   font-weight: 400;
-  letter-spacing: 1em;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
   text-transform: uppercase;
 }
 .about ul.social-list a:hover {
